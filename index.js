@@ -1,7 +1,8 @@
 /*!
  * Fe monitor center, collect anything if we need
  */
-const BASE_URL = 'https://mc.startdt.com/mc'
+// const BASE_URL = 'https://mc.startdt.com/mc'
+const BASE_URL = '//192.168.11.40:8001'
 
 // Submit Data with post method
 function sendDataByPost (formData) {
